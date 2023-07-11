@@ -1,0 +1,2 @@
+# UrbanPublicTransportQuerySystem
+包括前后台的上海城市公交查询系统，接入百度地图API，能够进行站点查询、线路查询和换乘查询
